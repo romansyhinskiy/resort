@@ -1,10 +1,10 @@
 import React, { Component } from 'react'
 
-export default class Name extends Component{
+export default class SingleRoom extends Component{
     render(){
         return (
             <div>
-                hello from Sigle room comp
+                hello from Single room comp
             </div>
         )
     }
